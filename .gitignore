@@ -1,0 +1,23 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Environment
+.venv/
+venv/
+env/
+ENV/
+
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# TensorFlow
+*.h5  # TensorFlow model files
+*.pb  # TensorFlow protobuf files
+*.ckpt # TensorFlow checkpoint files
+
+
+
